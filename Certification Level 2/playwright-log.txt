@@ -1,0 +1,454 @@
+{"level":30,"time":"2021-10-24T17:03:07.957Z","pid":11660,"hostname":"Ritviks_PC","msg":"Listening on 61111"}
+{"level":30,"time":"2021-10-24T17:03:08.868Z","pid":11660,"hostname":"Ritviks_PC","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-24T17:03:08.868Z","pid":11660,"hostname":"Ritviks_PC","msg":"Trace file: "}
+{"level":30,"time":"2021-10-24T17:03:08.894Z","pid":11660,"hostname":"Ritviks_PC","msg":"Changed active context"}
+{"level":30,"time":"2021-10-24T17:03:08.901Z","pid":11660,"hostname":"Ritviks_PC","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-24T17:03:09.259Z","pid":11660,"hostname":"Ritviks_PC","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-24T17:03:09.259Z","pid":11660,"hostname":"Ritviks_PC","msg":"Changed active page"}
+{"level":30,"time":"2021-10-24T17:03:10.682Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#username"}
+{"level":30,"time":"2021-10-24T17:03:10.751Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#username"}
+{"level":30,"time":"2021-10-24T17:03:10.784Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#password"}
+{"level":30,"time":"2021-10-24T17:03:10.810Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#password"}
+{"level":30,"time":"2021-10-24T17:03:10.867Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=Log in"}
+{"level":30,"time":"2021-10-24T17:03:11.575Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=Order your robot!"}
+{"level":30,"time":"2021-10-24T17:03:11.645Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:03:11.668Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:03:11.743Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:03:11.769Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-2"}
+{"level":30,"time":"2021-10-24T17:03:11.810Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:11.831Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:11.853Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:11.874Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:11.914Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:03:11.974Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:03:11.992Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:12.053Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:12.201Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:03:12.227Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:03:12.253Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:03:12.041Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-S45ZLO9PHN</p><p>Address 123</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 2</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:03:12.277Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:12.405Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:03:12.469Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:03:12.654Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:03:12.677Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-1"}
+{"level":30,"time":"2021-10-24T17:03:12.716Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:12.739Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:12.759Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:12.787Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:12.842Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:03:12.904Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:03:12.923Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:12.991Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "xpath=//html/body/div/div/div[1]/div/div[1]/div/button" to be visible
+============================================================
+    at C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26429:45
+    at step (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26312:23)
+    at Object.next (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26293:53)
+    at fulfilled (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26284:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-10-24T17:03:23.008Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div"}
+{"level":30,"time":"2021-10-24T17:03:23.020Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:23.061Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:23.191Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:03:23.206Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:03:23.219Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:03:23.055Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-T5WHXWQARD</p><p>Address 456</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:03:23.231Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:23.345Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:03:23.388Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:03:23.512Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:03:23.529Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-2"}
+{"level":30,"time":"2021-10-24T17:03:23.556Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:23.575Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:23.590Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:23.608Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:23.651Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:03:23.719Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:03:23.736Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:23.797Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "xpath=//html/body/div/div/div[1]/div/div[1]/div/button" to be visible
+============================================================
+    at C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26429:45
+    at step (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26312:23)
+    at Object.next (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26293:53)
+    at fulfilled (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26284:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-10-24T17:03:33.807Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div"}
+{"level":30,"time":"2021-10-24T17:03:33.818Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:33.854Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "xpath=//html/body/div/div/div[1]/div/div[1]/div/button" to be visible
+============================================================
+    at C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26429:45
+    at step (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26312:23)
+    at Object.next (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26293:53)
+    at fulfilled (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26284:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-10-24T17:03:43.866Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:43.920Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:44.046Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:03:44.060Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:03:44.072Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:03:43.915Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-VIVZ96WEP</p><p>Address 789</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 2</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:03:44.085Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:44.219Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:03:44.265Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:03:44.393Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:03:44.413Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-3"}
+{"level":30,"time":"2021-10-24T17:03:44.453Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:44.468Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:44.483Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:44.502Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:44.542Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:03:44.595Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:03:44.617Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:44.679Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:44.804Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:03:44.820Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:03:44.835Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:03:44.669Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-CV2IDZ2XDN</p><p>Address 1</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 3</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:03:44.848Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:44.989Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:03:45.046Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:03:45.151Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:03:45.171Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-5"}
+{"level":30,"time":"2021-10-24T17:03:45.204Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:45.221Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:45.239Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:45.262Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:45.301Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:03:45.360Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:03:45.371Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:45.435Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "xpath=//html/body/div/div/div[1]/div/div[1]/div/button" to be visible
+============================================================
+    at C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26429:45
+    at step (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26312:23)
+    at Object.next (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26293:53)
+    at fulfilled (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26284:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-10-24T17:03:55.450Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div"}
+{"level":30,"time":"2021-10-24T17:03:55.461Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:55.502Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:55.623Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:03:55.637Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:03:55.649Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:03:55.497Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-KG6CGTK35S</p><p>Address 2</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 5</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:03:55.662Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:55.759Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:03:55.826Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:03:55.951Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:03:55.969Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-6"}
+{"level":30,"time":"2021-10-24T17:03:56.001Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:56.021Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:56.037Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:56.060Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:56.098Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:03:56.163Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:03:56.182Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:56.245Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:56.363Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:03:56.383Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:03:56.398Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:03:56.237Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-WFXV6FFK5W</p><p>Address 3</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 6</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:03:56.410Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:56.498Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:03:56.550Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:03:56.672Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:03:56.687Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-1"}
+{"level":30,"time":"2021-10-24T17:03:56.717Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:56.736Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:56.756Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:56.778Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:56.830Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:03:56.899Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:03:56.943Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:57.019Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:57.204Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:03:57.226Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:03:57.241Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:03:57.009Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-NYKWZII18S</p><p>Address 4</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 5</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:03:57.257Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:57.375Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:03:57.456Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:03:57.576Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:03:57.596Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-3"}
+{"level":30,"time":"2021-10-24T17:03:57.636Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:57.654Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:57.672Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:57.694Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:57.739Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:03:57.803Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:03:57.828Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:57.896Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:58.062Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:03:58.077Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:03:58.094Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:03:57.885Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-FX8BMAI42M</p><p>Address 5</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 3</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:03:58.108Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:58.223Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:03:58.293Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:03:58.470Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:03:58.491Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-2"}
+{"level":30,"time":"2021-10-24T17:03:58.551Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:58.568Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:58.589Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:58.616Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:58.667Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:03:58.736Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:03:58.763Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:58.829Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:58.977Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:03:58.996Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:03:59.011Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:03:58.819Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-7HL4B0V2BT</p><p>Address 6</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 2</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:03:59.033Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:59.170Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:03:59.253Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:03:59.413Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:03:59.434Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-4"}
+{"level":30,"time":"2021-10-24T17:03:59.480Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:59.508Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:03:59.529Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:59.556Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:03:59.606Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:03:59.663Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:03:59.680Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:03:59.742Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:03:59.888Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:03:59.903Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:03:59.922Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:03:59.734Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-M4IMXXLO0M</p><p>Address 7</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 4</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:03:59.941Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:00.027Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:04:00.100Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:04:00.223Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:04:00.246Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-6"}
+{"level":30,"time":"2021-10-24T17:04:00.287Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:00.310Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:00.329Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:00.350Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:00.401Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:04:00.467Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:04:00.489Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:00.568Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:00.726Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:04:00.743Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:04:00.757Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:04:00.557Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-J44IGF63VQ</p><p>Address 8</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 6</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:04:00.772Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:00.882Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:04:00.969Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:04:01.116Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:04:01.135Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-3"}
+{"level":30,"time":"2021-10-24T17:04:01.171Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:01.191Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:01.207Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:01.226Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:01.267Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:04:01.332Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:04:01.352Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:01.410Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "xpath=//html/body/div/div/div[1]/div/div[1]/div/button" to be visible
+============================================================
+    at C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26429:45
+    at step (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26312:23)
+    at Object.next (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26293:53)
+    at fulfilled (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26284:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-10-24T17:04:11.415Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div"}
+{"level":30,"time":"2021-10-24T17:04:11.424Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:11.463Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:11.591Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:04:11.605Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:04:11.615Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:04:11.459Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-O45O8ZQYYW</p><p>Address 9</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 3</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:04:11.628Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:11.758Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:04:11.814Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:04:11.934Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:04:11.973Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-5"}
+{"level":30,"time":"2021-10-24T17:04:12.034Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:12.053Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:12.066Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:12.084Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:12.122Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:04:12.176Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:04:12.195Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:12.250Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "xpath=//html/body/div/div/div[1]/div/div[1]/div/button" to be visible
+============================================================
+    at C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26429:45
+    at step (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26312:23)
+    at Object.next (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26293:53)
+    at fulfilled (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26284:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-10-24T17:04:22.265Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div"}
+{"level":30,"time":"2021-10-24T17:04:22.277Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:22.315Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:22.432Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:04:22.445Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:04:22.457Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:04:22.310Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-O401TPRNBZJ</p><p>Address A</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 5</div><div>Legs: 4</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:04:22.470Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:22.568Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:04:22.622Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:04:22.743Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:04:22.761Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-1"}
+{"level":30,"time":"2021-10-24T17:04:22.797Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:22.812Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:22.826Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:22.842Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:22.878Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:04:22.941Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:04:22.960Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:23.021Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:23.135Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:04:23.148Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:04:23.160Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:04:23.013Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-YVWSK3P3Q</p><p>Address B</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:04:23.179Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:23.285Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:04:23.376Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:04:23.540Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:04:23.560Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-2"}
+{"level":30,"time":"2021-10-24T17:04:23.599Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:23.620Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:23.640Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:23.662Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:23.710Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:04:23.779Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:04:23.803Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:23.862Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "xpath=//html/body/div/div/div[1]/div/div[1]/div/button" to be visible
+============================================================
+    at C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26429:45
+    at step (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26312:23)
+    at Object.next (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26293:53)
+    at fulfilled (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26284:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-10-24T17:04:33.871Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div"}
+{"level":30,"time":"2021-10-24T17:04:33.881Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:33.929Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:34.051Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:04:34.064Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:04:34.076Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:04:33.925Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-G8I9H1ABKR</p><p>Address C</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 2</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:04:34.090Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:34.196Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:04:34.263Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:04:34.385Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:04:34.403Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-3"}
+{"level":30,"time":"2021-10-24T17:04:34.446Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:34.465Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:34.479Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:34.495Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:34.532Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:04:34.591Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:04:34.608Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:34.666Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:34.786Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:04:34.798Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:04:34.809Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:04:34.661Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-VC0SB5YRGE</p><p>Address D</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 3</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:04:34.824Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:34.928Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:04:35.013Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:04:35.160Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:04:35.178Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-4"}
+{"level":30,"time":"2021-10-24T17:04:35.212Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:35.229Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:35.247Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:35.264Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:35.302Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:04:35.383Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:04:35.409Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:35.465Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:35.585Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:04:35.603Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:04:35.623Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:04:35.459Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-FOCDENHSB8</p><p>Address E</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 5</div><div>Body: 4</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:04:35.647Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:35.741Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:04:35.809Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:04:35.952Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:04:35.970Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-5"}
+{"level":30,"time":"2021-10-24T17:04:36.014Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:36.033Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:36.058Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:36.078Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:36.114Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:04:36.175Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:04:36.194Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:36.254Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:36.376Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:04:36.392Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:04:36.405Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:04:36.246Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-4X51MRQF8</p><p>Address F</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 5</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:04:36.419Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:36.540Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:04:36.616Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:04:36.792Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:04:36.811Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-6"}
+{"level":30,"time":"2021-10-24T17:04:36.847Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:36.864Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:36.882Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:36.903Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:36.942Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:04:37.012Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:04:37.036Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:37.106Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "xpath=//html/body/div/div/div[1]/div/div[1]/div/button" to be visible
+============================================================
+    at C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26429:45
+    at step (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26312:23)
+    at Object.next (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26293:53)
+    at fulfilled (C:\Users\dwara\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:26284:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-10-24T17:04:47.128Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div"}
+{"level":30,"time":"2021-10-24T17:04:47.140Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:47.180Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:47.319Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:04:47.335Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:04:47.351Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:04:47.174Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-ILJXUAO437</p><p>Address G</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 6</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:04:47.368Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:47.498Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:04:47.585Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}
+{"level":30,"time":"2021-10-24T17:04:47.714Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#head"}
+{"level":30,"time":"2021-10-24T17:04:47.738Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#id-body-1"}
+{"level":30,"time":"2021-10-24T17:04:47.784Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:47.808Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/form/div[3]/input"}
+{"level":30,"time":"2021-10-24T17:04:47.826Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:47.851Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#address"}
+{"level":30,"time":"2021-10-24T17:04:47.899Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#preview"}
+{"level":30,"time":"2021-10-24T17:04:47.961Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#robot-preview"}
+{"level":30,"time":"2021-10-24T17:04:47.987Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order"}
+{"level":30,"time":"2021-10-24T17:04:48.049Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:48.201Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=#order-another"}
+{"level":30,"time":"2021-10-24T17:04:48.218Z","pid":11660,"hostname":"Ritviks_PC","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-24T17:04:48.231Z","pid":11660,"hostname":"Ritviks_PC","msg":"Retrieved dom property for element xpath=//html/body/div/div/div[1]/div/div[1]/div/div containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-10-24T17:04:48.042Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-WEVP3EU3P9</p><p>Address H</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-10-24T17:04:48.246Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: xpath=//html/body/div/div/div[1]/div/div[1]/div/button"}
+{"level":30,"time":"2021-10-24T17:04:48.376Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: css=.modal-header"}
+{"level":30,"time":"2021-10-24T17:04:48.461Z","pid":11660,"hostname":"Ritviks_PC","msg":"Page|Frame|Element resolved elementSelector: text=OK"}

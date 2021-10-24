@@ -1,0 +1,9 @@
+{
+    "Unknown": {
+        "screenshot": ".images\\unknown-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//input[@id='1634972032792']"
+    }
+}
